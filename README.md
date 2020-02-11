@@ -1,2 +1,2 @@
 # HealthNet
-Electronic Health Record Management system built using Hyperledger Composer
+Electronic Health Record Management system built using Hyperledger Fabric and Hyperledger Composer
